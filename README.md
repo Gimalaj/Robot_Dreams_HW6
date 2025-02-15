@@ -162,7 +162,7 @@ sudo docker logs -f hw6-loki
 
 <table>
   <tr>
-    <td align="center">Grafana доступна через IP-адресу контейнера</td>
+    <td align="center">Grafana доступна через IP-адресу віртуальної машини</td>
     <td align="center">Grafana доступна на localhost через прокинутий порт за допомогою NAT</td>
   </tr>
   <tr>
